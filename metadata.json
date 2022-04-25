@@ -1,0 +1,23 @@
+{
+    "name": "My_Golas",
+    "symbol": "MTS",
+    "description": "Famous fuck nft In world",
+    "seller_fee_basis_points": 0,
+    "image": "https://m.media-amazon.com/images/I/7147faodXjL._SL1500_.jpg",
+    "external_url": "https://m.media-amazon.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://m.media-amazon.com/images/I/7147faodXjL._SL1500_.jpg",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8X8dMFbA6W6rRHH5tpGBdSx7FmW3432TrpKeSvussaNx",
+                "share": 100
+            }
+        ]
+    }
+}
